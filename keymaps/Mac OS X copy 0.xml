@@ -1,8 +1,10 @@
 <keymap version="1" name="Mac OS X copy 0" parent="Mac OS X">
   <action id="EditorDecreaseFontSize">
     <mouse-shortcut keystroke="control button143" />
+    <keyboard-shortcut first-keystroke="ctrl minus" />
   </action>
   <action id="EditorIncreaseFontSize">
     <mouse-shortcut keystroke="control button142" />
+    <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
 </keymap>
