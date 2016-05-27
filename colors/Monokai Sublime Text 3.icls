@@ -166,6 +166,17 @@
         <option name="FOREGROUND" value="ae81ff" />
       </value>
     </option>
+    <option name="DBNavigator.TextAttributes.DataEditor.PlainData">
+      <value>
+        <option name="BACKGROUND" value="161d2c" />
+      </value>
+    </option>
+    <option name="DBNavigator.TextAttributes.DataEditor.ReadonlyData">
+      <value>
+        <option name="FOREGROUND" value="7f7f7f" />
+        <option name="BACKGROUND" value="161d2c" />
+      </value>
+    </option>
     <option name="DBNavigator.TextAttributes.DataEditor.Selection">
       <value>
         <option name="FOREGROUND" value="161d2c" />
@@ -175,6 +186,11 @@
     <option name="DBNavigator.TextAttributes.DataEditor.TrackingData">
       <value>
         <option name="FOREGROUND" value="c4c4c4" />
+        <option name="BACKGROUND" value="161d2c" />
+      </value>
+    </option>
+    <option name="DBNavigator.TextAttributes.SessionBrowser.ActiveSession">
+      <value>
         <option name="BACKGROUND" value="161d2c" />
       </value>
     </option>
