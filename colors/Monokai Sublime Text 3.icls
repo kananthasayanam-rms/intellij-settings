@@ -166,6 +166,18 @@
         <option name="FOREGROUND" value="ae81ff" />
       </value>
     </option>
+    <option name="DBNavigator.TextAttributes.DataEditor.Selection">
+      <value>
+        <option name="FOREGROUND" value="161d2c" />
+        <option name="BACKGROUND" value="526da5" />
+      </value>
+    </option>
+    <option name="DBNavigator.TextAttributes.DataEditor.TrackingData">
+      <value>
+        <option name="FOREGROUND" value="c4c4c4" />
+        <option name="BACKGROUND" value="161d2c" />
+      </value>
+    </option>
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="66d9ef" />
