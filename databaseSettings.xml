@@ -1,5 +1,6 @@
 <application>
   <component name="DatabaseSettings">
+    <option name="error-in-editor" value="false" />
     <text-mode in-scripts="true" in-literals="true">
       <parameter-patterns>
         <parameter-pattern value="\?(\d+)" />
