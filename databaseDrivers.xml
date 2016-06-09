@@ -99,6 +99,13 @@
         <url>file:///usr/local/Cellar/apache-drill/1.6.0/libexec/jars/jdbc-driver/drill-jdbc-all-1.6.0.jar</url>
       </library>
     </driver>
+    <driver id="java.sql.Driver" name="ApacheDrill" dialect="GenericSQL" driver-class="org.apache.drill.jdbc.Driver">
+      <option name="auto-commit" value="true" />
+      <option name="auto-sync" value="true" />
+      <library>
+        <url>file://$USER_HOME$/github/datatransform/drill/apache-drill-1.6.0/jars/jdbc-driver/drill-jdbc-all-1.6.0.jar</url>
+      </library>
+    </driver>
     <driver id="db2.jtopen" name="DB2 (JTOpen)" dialect="DB2">
       <artifact name="JTOpen (DB2 iSeries)" use="true" />
       <option name="auto-sync" value="false" />
