@@ -1,26 +1,27 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="tps" type="DBN-PSQL" />
-      <mapping ext="tpe" type="DBN-PSQL" />
-      <mapping ext="pks" type="DBN-PSQL" />
-      <mapping ext="fnc" type="DBN-PSQL" />
-      <mapping ext="pkg" type="DBN-PSQL" />
-      <mapping ext="pkb" type="DBN-PSQL" />
-      <mapping ext="tpb" type="DBN-PSQL" />
-      <mapping ext="prc" type="DBN-PSQL" />
-      <mapping ext="trg" type="DBN-PSQL" />
-      <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern="GetUserByListOutput" type="PLAIN_TEXT" />
       <mapping pattern="part-00000" type="PLAIN_TEXT" />
       <mapping pattern="GetUserByIdOutput" type="PLAIN_TEXT" />
-      <mapping pattern="GetUserByListOutput" type="PLAIN_TEXT" />
       <mapping pattern="GetIdListOutput" type="PLAIN_TEXT" />
       <mapping pattern="resourceUtilTest" type="PLAIN_TEXT" />
       <mapping pattern="CreateOutput" type="PLAIN_TEXT" />
       <mapping pattern="CreateUserValidationInvalidResponse" type="PLAIN_TEXT" />
-      <mapping ext="fb" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping ext="schema" type="PLAIN_TEXT" />
+      <mapping ext="fb" type="PLAIN_TEXT" />
+      <mapping ext="fnc" type="DBN-PSQL" />
+      <mapping ext="pkb" type="DBN-PSQL" />
+      <mapping ext="pkg" type="DBN-PSQL" />
+      <mapping ext="pks" type="DBN-PSQL" />
+      <mapping ext="prc" type="DBN-PSQL" />
+      <mapping ext="tpb" type="DBN-PSQL" />
+      <mapping ext="tpe" type="DBN-PSQL" />
+      <mapping ext="tps" type="DBN-PSQL" />
+      <mapping ext="trg" type="DBN-PSQL" />
+      <mapping ext="vw" type="DBN-SQL" />
     </extensionMap>
   </component>
 </application>
