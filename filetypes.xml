@@ -9,7 +9,6 @@
       <mapping pattern="CreateOutput" type="PLAIN_TEXT" />
       <mapping pattern="CreateUserValidationInvalidResponse" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
-      <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="schema" type="PLAIN_TEXT" />
       <mapping ext="fb" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
