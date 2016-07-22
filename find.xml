@@ -1,21 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'rms-one-dataservices'" />
-    <option name="defaultScopeName" value="Project 'rms-one-dataservices'" />
+    <option name="customScope" value="Project 'rms-one-import'" />
+    <option name="defaultScopeName" value="Project 'rms-one-import'" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'rms-one-dataservices'" />
-    <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.xml</mask>
-      <mask>pom.xml</mask>
-      <mask>*.java</mask>
-    </recentFileMasks>
+    <option name="SEARCH_SCOPE" value="Project 'rms-one-import'" />
   </component>
 </application>
