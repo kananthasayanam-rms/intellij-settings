@@ -5,4 +5,8 @@
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="SHOW_INLINE_DIALOG" value="false" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+  </component>
 </application>
