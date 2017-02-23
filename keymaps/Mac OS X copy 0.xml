@@ -1,11 +1,9 @@
 <keymap version="1" name="Mac OS X copy 0" parent="Mac OS X">
   <action id="EditorDecreaseFontSize">
-    <mouse-shortcut keystroke="control button143" />
-    <keyboard-shortcut first-keystroke="ctrl minus" />
+    <mouse-shortcut keystroke="control button142" />
   </action>
   <action id="EditorIncreaseFontSize">
-    <mouse-shortcut keystroke="control button142" />
-    <keyboard-shortcut first-keystroke="ctrl equals" />
+    <mouse-shortcut keystroke="control button143" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
