@@ -1,10 +1,9 @@
-<keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+<keymap version="1" name="Mac OS X copy 1" parent="Mac OS X">
   <action id="EditorDecreaseFontSize">
-    <keyboard-shortcut first-keystroke="ctrl subtract" />
+    <keyboard-shortcut first-keystroke="ctrl minus" />
   </action>
   <action id="EditorIncreaseFontSize">
-    <keyboard-shortcut first-keystroke="ctrl add" />
-    <keyboard-shortcut first-keystroke="shift ctrl up" />
+    <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
