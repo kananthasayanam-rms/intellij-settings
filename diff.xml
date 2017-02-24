@@ -42,7 +42,7 @@
     </option>
   </component>
   <component name="ExternalDiffSettings">
-    <option name="DIFF_ENABLED" value="true" />
+    <option name="DIFF_ENABLED" value="false" />
     <option name="DIFF_DEFAULT" value="true" />
     <option name="DIFF_EXE_PATH" value="/usr/local/bin/bcomp" />
     <option name="DIFF_PARAMETERS" value="%1 %2 %3" />
