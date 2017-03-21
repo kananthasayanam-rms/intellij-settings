@@ -1,12 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="part-00032" type="PLAIN_TEXT" />
       <mapping pattern="GetUserByListOutput" type="PLAIN_TEXT" />
+      <mapping pattern="GetIdListOutput" type="PLAIN_TEXT" />
       <mapping pattern="part-00001" type="PLAIN_TEXT" />
       <mapping pattern="part-00000" type="PLAIN_TEXT" />
       <mapping pattern="GetUserByIdOutput" type="PLAIN_TEXT" />
-      <mapping pattern="GetIdListOutput" type="PLAIN_TEXT" />
+      <mapping pattern="part-00032" type="PLAIN_TEXT" />
       <mapping pattern="resourceUtilTest" type="PLAIN_TEXT" />
       <mapping pattern="CreateOutput" type="PLAIN_TEXT" />
       <mapping pattern="CreateUserValidationInvalidResponse" type="PLAIN_TEXT" />
@@ -14,6 +14,7 @@
       <mapping ext="parquet" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="schema" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="fb" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
