@@ -20,6 +20,7 @@
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
       <mapping ext="ktr" type="PLAIN_TEXT" />
+      <mapping ext="004__createpurchaseledger" type="PLAIN_TEXT" />
       <mapping ext="schema" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="metadata" type="PLAIN_TEXT" />
