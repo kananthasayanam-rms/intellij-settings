@@ -1,8 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="part-00032" type="PLAIN_TEXT" />
       <mapping pattern="_SUCCESS" type="PLAIN_TEXT" />
+      <mapping pattern="GetIdListOutput" type="PLAIN_TEXT" />
       <mapping pattern="GetUserByListOutput" type="PLAIN_TEXT" />
       <mapping pattern="part-00004" type="PLAIN_TEXT" />
       <mapping pattern="part-00003" type="PLAIN_TEXT" />
@@ -10,7 +10,7 @@
       <mapping pattern="part-00000" type="PLAIN_TEXT" />
       <mapping pattern="GetUserByIdOutput" type="PLAIN_TEXT" />
       <mapping pattern="part-00002" type="PLAIN_TEXT" />
-      <mapping pattern="GetIdListOutput" type="PLAIN_TEXT" />
+      <mapping pattern="part-00032" type="PLAIN_TEXT" />
       <mapping pattern="resourceUtilTest" type="PLAIN_TEXT" />
       <mapping pattern="CreateOutput" type="PLAIN_TEXT" />
       <mapping pattern="READ_ME" type="PLAIN_TEXT" />
@@ -22,6 +22,7 @@
       <mapping ext="ktr" type="PLAIN_TEXT" />
       <mapping ext="004__createpurchaseledger" type="PLAIN_TEXT" />
       <mapping ext="schema" type="PLAIN_TEXT" />
+      <mapping ext="mff" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="metadata" type="PLAIN_TEXT" />
       <mapping ext="fb" type="PLAIN_TEXT" />
